@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test Rig", "c:\Inetpub\wwwroot\Test\Test Rig.csproj", "{B77555E4-801C-436C-80AD-603843C1200B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL Protector", "BL Protector\BL Protector.csproj", "{8D6791E7-A056-4A32-B462-FB596B12470F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B77555E4-801C-436C-80AD-603843C1200B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B77555E4-801C-436C-80AD-603843C1200B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B77555E4-801C-436C-80AD-603843C1200B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B77555E4-801C-436C-80AD-603843C1200B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D6791E7-A056-4A32-B462-FB596B12470F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6791E7-A056-4A32-B462-FB596B12470F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6791E7-A056-4A32-B462-FB596B12470F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6791E7-A056-4A32-B462-FB596B12470F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
